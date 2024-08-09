@@ -18,40 +18,27 @@ Conclusion
  
 # Dataset Information:
 
-The dataset contains the following feature columns:
-
+ 
+# The dataset contains the following feature columns:
 longitude: Geographic coordinate, longitude of the property.
-
 latitude: Geographic coordinate, latitude of the property.
-
 housing_median_age: The median age of the houses in the block.
-
 total_rooms: Total number of rooms in the property.
-
 total_bedrooms: Total number of bedrooms in the property.
-
 population: Population in the block.
-
 households: Total number of households in the block.
-
 median_income: Median income of households in the block.
-
 median_house_value: The target variable, representing the median house value.
-
 ocean_proximity: Categorical feature indicating the proximity to the ocean.
 
-Libraries Used
+
+# Libraries Used
 
 Pandas: For data manipulation and analysis.
-
 NumPy: For numerical computations.
-
 Seaborn: For creating visualizations.
-
 Matplotlib: For plotting graphs and visualizations.
-
 Scikit-learn: For building and evaluating machine learning models.
-
 Mpl_toolkits: For creating 3D plots.
 
 
