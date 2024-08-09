@@ -3,30 +3,20 @@
 This project aims to predict house prices using various features like location, age, and other relevant attributes. The dataset used for this project includes various attributes such as longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, and ocean proximity. The project involves data preprocessing, visualization, building machine learning models, and evaluating their performance.
 
 Table of Contents
-
 Dataset Information
-
 Libraries Used
-
 Project Structure
-
 Data Exploration and Preprocessing
-
 Data Visualization
-
 Model Building
-
 Model Evaluation
-
 Visualization of Results
-
 Final Predictions
-
 Conclusion
 
-How to Run
 
-Dataset Information
+ 
+# Dataset Information:
 
 The dataset contains the following feature columns:
 
